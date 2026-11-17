@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MyRoot>
+  <MyChild ID="1">
+    <MyGrandChild NAME="1 1" />
+    <MyGrandChild NAME="1 2" />
+  </MyChild>
+  <MyChild ID="2">
+    <MyGrandChild NAME="2 1" />
+    <MyGrandChild NAME="2 2" />
+  </MyChild>
+  <MyChild ID="3">
+    <MyGrandChild NAME="3 1" />
+    <MyGrandChild NAME="3 2" />
+  </MyChild>
+</MyRoot>
